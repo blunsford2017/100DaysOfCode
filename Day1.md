@@ -10,4 +10,5 @@ Ira helped with understanding Datastructures and Algorithms
 - Coding challenges for interviews
 - Review of Big O notations!
 - review how to figure it out for interviews
-- Hash maps/ hash tables (same thing) what we have been using in class (review more)
+- Hash maps/ hash tables (same thing) what we have been using in class (review more great way to solve code challenges)
+- ![Hashes](pics/image.png)
