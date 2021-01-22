@@ -2,4 +2,5 @@
 
 Hello this is where I will be keeping track of my 100 Days of Code Challenge!
 
-Day 1:
+Day 1: complete
+Day 2:

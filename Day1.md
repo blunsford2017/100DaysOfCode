@@ -7,3 +7,6 @@ Daniel walked us through building an app from scratch
 
 Ira helped with understanding Datastructures and Algorithms
 -https://gist.github.com/iscott/efe76bdd5f8004c290e768bd0dafc052
+- Coding challenges for interviews
+- Review of Big O notations!
+- review how to figure it out for interviews
