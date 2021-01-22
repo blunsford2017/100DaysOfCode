@@ -7,3 +7,4 @@ Clean up projects
 Scooby Doo themed project
 Review Slack resources
 GA Dashboard
+review hashes
