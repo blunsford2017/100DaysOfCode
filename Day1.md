@@ -1,7 +1,7 @@
 Today I spent my day with my instructors from GA!
 
 Daniel walked us through building an app from scratch
-- we built sstarwarsify
+- we built Starwarsify
 - runs on react
 - learned how to use firsebase and implement Auth with it
 
