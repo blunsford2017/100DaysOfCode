@@ -2,7 +2,7 @@ Finished CS dashboard
 Algorithms dashboard 
 - Intro√
 - big O notation√
-- Recursion
+- Recursion - started
 - Into to sorting
 - basic sorting
 - divide and concuer sorting
