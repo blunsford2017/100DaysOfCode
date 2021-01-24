@@ -1,0 +1,1 @@
+went through current coding notes and started CS on dashboard
