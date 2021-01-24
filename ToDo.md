@@ -10,3 +10,4 @@ GA Dashboard
 review hashes
 check repls for good notes and things to review for interviews
 create mastermind app with pyton/ firebase backend?
+a way to sort nextflix by genere and then like
