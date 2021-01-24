@@ -1,2 +1,10 @@
 Finished CS dashboard
-Algorithms Intro
+Algorithms dashboard 
+- Intro√
+- big O notation
+- Recursion
+- Into to sorting
+- basic sorting
+- divide and concuer sorting
+- distribution sorting
+- search
