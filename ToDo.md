@@ -9,3 +9,4 @@ Review Slack resources
 GA Dashboard
 review hashes
 check repls for good notes and things to review for interviews
+create mastermind app with pyton/ firebase backend?
