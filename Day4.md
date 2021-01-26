@@ -1,7 +1,5 @@
 Algorithms dashboard 
-- Intro√
-- big O notation√
-- Recursion - started
+- Recursion √
 - Into to sorting
 - basic sorting
 - divide and concuer sorting
