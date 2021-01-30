@@ -1,3 +1,4 @@
+1/21/21
 Today I spent my day with my instructors from GA!
 
 Daniel walked us through building an app from scratch
