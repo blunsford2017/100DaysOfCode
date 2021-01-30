@@ -1,7 +1,2 @@
 1/27/21
-Algorithms dashboard 
-- Into to sorting
-- basic sorting
-- divide and concuer sorting
-- distribution sorting
-- search
+Youtube videos on react native and worked on portfolio
