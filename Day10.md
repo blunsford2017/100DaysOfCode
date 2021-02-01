@@ -6,4 +6,4 @@ Reasearched Code for America and signed up to work with them.
 
 Code Wars - 25 mins
 
-JavaScript refresher
+HackerRank
