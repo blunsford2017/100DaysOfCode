@@ -6,4 +6,6 @@ Reasearched Code for America and signed up to work with them.
 
 Code Wars - 25 mins
 
-HackerRank
+HackerRank - 25 mins
+
+Worked on JavaScript blog post
