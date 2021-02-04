@@ -2,13 +2,15 @@
 
 Hello this is where I will be keeping track of my 100 Days of Code Challenge!
 
-- Day 1: Complete
-- Day 2: Complete
-- Day 3: Complete
-- Day 4: Complete
-- Day 5: Complete
-- Day 6: Complete
-- Day 7: Complete
-- Day 8: Complete
-- Day 9: complete
-- Day 10: complete
+- Day 1-10: Complete
+- Day 11-20:
+- Day 11: Complete
+- Day 12: Complete
+- Day 13: Complete
+- Day 14:
+- Day 15: 
+- Day 16: 
+- Day 17: 
+- Day 18:
+- Day 19:
+- Day 20:
