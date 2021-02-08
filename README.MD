@@ -7,8 +7,8 @@ Hello this is where I will be keeping track of my 100 Days of Code Challenge!
 - Day 11: Complete
 - Day 12: Complete
 - Day 13: Complete
-- Day 14:
-- Day 15: 
+- Day 14: Complete
+- Day 15: Complete
 - Day 16: 
 - Day 17: 
 - Day 18:
