@@ -13,4 +13,4 @@ Hello this is where I will be keeping track of my 100 Days of Code Challenge!
 - Day 17: Complete
 - Day 18: Complete
 - Day 19: Complete
-- Day 20:
+- Day 20: Complete
