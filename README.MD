@@ -12,6 +12,6 @@ Hello this is where I will be keeping track of my 100 Days of Code Challenge!
 - Day 35: Complete
 - Day 36: Complete
 - Day 37: Complete
-- Day 38:
+- Day 38: Complete
 - Day 39:
 - Day 40:
