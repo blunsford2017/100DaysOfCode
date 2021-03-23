@@ -6,10 +6,10 @@ Hello this is where I will be keeping track of my 100 Days of Code Challenge!
 - Days 11-20: Complete
 - Days 21-30: Complete
 - Days 31-40: Complete
-- Day 41:
-- Day 42:
-- Day 43:
-- Day 44:
+- Day 41: Complete
+- Day 42: Complete
+- Day 43: Complete
+- Day 44: Complete
 - Day 45:
 - Day 46:
 - Day 47:
