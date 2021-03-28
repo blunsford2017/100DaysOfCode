@@ -10,9 +10,9 @@ Hello this is where I will be keeping track of my 100 Days of Code Challenge!
 - Day 42: Complete
 - Day 43: Complete
 - Day 44: Complete
-- Day 45:
-- Day 46:
-- Day 47:
-- Day 48:
-- Day 49:
+- Day 45: Complete
+- Day 46: Complete
+- Day 47: Complete
+- Day 48: Complete
+- Day 49: Complete
 - Day 50:
