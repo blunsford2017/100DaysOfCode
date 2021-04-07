@@ -7,13 +7,14 @@ Hello this is where I will be keeping track of my 100 Days of Code Challenge!
 - Days 21-30: Complete
 - Days 31-40: Complete
 - Days 41-50: Complete
-- Day 51: Complete
-- Day 52: Complete
-- Day 53: Complete
-- Day 54: Complete
-- Day 55: Complete
-- Day 56: Complete
-- Day 57: Complete
-- Day 58: Complete
-- Day 59: Complete
-- Day 60: Complete
+- Days 51-60: Complete
+- Day 61:
+- Day 62:
+- Day 63:
+- Day 64:
+- Day 65:
+- Day 66:
+- Day 67:
+- Day 68:
+- Day 69:
+- Day 70:
