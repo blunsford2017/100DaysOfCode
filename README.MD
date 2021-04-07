@@ -15,5 +15,5 @@ Hello this is where I will be keeping track of my 100 Days of Code Challenge!
 - Day 56: Complete
 - Day 57: Complete
 - Day 58: Complete
-- Day 59:
+- Day 59: Complete
 - Day 60:
