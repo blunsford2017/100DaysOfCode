@@ -12,7 +12,7 @@ Hello this is where I will be keeping track of my 100 Days of Code Challenge!
 - Day 53: Complete
 - Day 54: Complete
 - Day 55: Complete
-- Day 56:
+- Day 56: Complete
 - Day 57:
 - Day 59:
 - Day 58:
